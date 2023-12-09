@@ -3,7 +3,7 @@
 #############################################################
 # Date: 12/09/2023
 # Author: Sata Pitalekar
-# Title: Shell Script Wget Command
+# Title: Shell Script For Loop with Find & Remove Command
 # Description: In this shell script, we are using for loop to 
 #              check iteratively whether test folder exists or 
 #              not & if exists then delete it.

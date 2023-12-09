@@ -3,7 +3,7 @@
 #############################################################
 # Date: 12/09/2023
 # Author: Sata Pitalekar
-# Title: Shell Script Wget Command
+# Title: Shell Script Simple For Loop
 # Description: In this shell script, we are using simple for 
 #              loop to print 1 to 10 numbers.
 #############################################################
