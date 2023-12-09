@@ -9,7 +9,8 @@
 #############################################################
 
 echo "Check Disk Utilization in Linux System"
-disk_size=$(df -h | grep "/dev/xvda128" | awk '{print $5}' | cut -d '%' -f 1)
+# disk_size=$(df -h | grep "/dev/xvda1" | awk '{print $5}' | cut -d '%' -f 1)
+disk_size=$(df -h | grep "/dev/xvda1" | awk '{print $5}' | cut -d '%' -f 1 | head -n 1)
 echo ${disk_size}'% of disk is filled'
 if [ $disk_size -gt 80 ];
 then
