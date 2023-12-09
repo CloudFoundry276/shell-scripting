@@ -2,7 +2,7 @@
 
 #############################################################
 # Date: 12/09/2023
-# Author: Sata Pitalekar
+# Author: Sagar Pitalekar
 # Title: Check Disk Utilization
 # Description: In this shell script, we are checking the 
 #              utilization of disk of system.

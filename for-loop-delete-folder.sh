@@ -2,7 +2,7 @@
 
 #############################################################
 # Date: 12/09/2023
-# Author: Sata Pitalekar
+# Author: Sagar Pitalekar
 # Title: Shell Script For Loop with Find & Remove Command
 # Description: In this shell script, we are using for loop to 
 #              check iteratively whether test folder exists or 

@@ -2,7 +2,7 @@
 
 #############################################################
 # Date: 12/09/2023
-# Author: Sata Pitalekar
+# Author: Sagar Pitalekar
 # Title: Clean Log Files
 # Description: In this shell script, we are cleaning all the
 #              previous 30 days logs from log files & maintain latest

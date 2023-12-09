@@ -2,7 +2,7 @@
 
 #############################################################
 # Date: 12/09/2023
-# Author: Sata Pitalekar
+# Author: Sagar Pitalekar
 # Title: First 10 Biggest File
 # Description: In this shell script, we are finding first 10 
 #              biggest file in the file system & write the 

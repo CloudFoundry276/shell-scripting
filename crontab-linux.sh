@@ -2,7 +2,7 @@
 
 #############################################################
 # Date: 12/09/2023
-# Author: Sata Pitalekar
+# Author: Sagar Pitalekar
 # Title: Shell Script Crontab Management in Linux
 # Description: In this shell script, we are using crontab to 
 #              manage & schedule jobs in linux.

@@ -2,7 +2,7 @@
 
 #############################################################
 # Date: 12/09/2023
-# Author: Sata Pitalekar
+# Author: Sagar Pitalekar
 # Title: Shell Script Check Docker Service
 # Description: In this shell script, we are checking whether 
 #              docker service is running(active) or not.

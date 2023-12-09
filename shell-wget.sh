@@ -2,7 +2,7 @@
 
 #############################################################
 # Date: 12/09/2023
-# Author: Sata Pitalekar
+# Author: Sagar Pitalekar
 # Title: Shell Script Wget Command
 # Description: In this shell script, we are downloading & 
 #              installing softwares using wget command.

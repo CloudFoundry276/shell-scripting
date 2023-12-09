@@ -2,7 +2,7 @@
 
 #############################################################
 # Date: 12/09/2023
-# Author: Sata Pitalekar
+# Author: Sagar Pitalekar
 # Title: Git Installation
 # Description: In this shell script, we are detecting the OS 
 #              installed in ec2 & accordingly install git as 
