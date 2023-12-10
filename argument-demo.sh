@@ -8,6 +8,9 @@
 #              for argument demo testing.
 #############################################################
 
+test_arg="Hello"
 echo "Shell Script Name: $0"
 echo "First Argument: $1"
 echo "Second Argument: $2"
+echo ${test_arg}' Arg'
+echo 'Arg '${test_arg}
